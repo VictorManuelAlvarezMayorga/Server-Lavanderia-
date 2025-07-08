@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+.env
+__pycahce__
+=======
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
@@ -37,3 +41,4 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+>>>>>>> 3010fe3 (Cambios en front y correcciones en back)
